@@ -41,12 +41,11 @@
   "created_by": "raymondhyser",
   "title": "The Reggaetón Voice by Derrek Powell",
   "slug": "the-reggaeton-voice-by-derrek-powell",
-  "updated_at": "2026-07-09T20:37:51.011Z",
+  "updated_at": "2026-07-09T20:38:05.809Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "91a56768-398e-4379-99c6-8f7c7f566e5f"
-  },
-  "parent": "871364ee-6ac9-4523-afa0-0d793b289e84"
+  }
 }

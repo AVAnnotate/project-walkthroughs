@@ -4,14 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"The Reggaetón Voice\" is an interactive online resource that explores how reggaetón artists use pronunciation, rhythm, and vocal style to create meaning in their music. Created by Derrek Powell, a PhD candidate in UT Austin's Department of Spanish & Portuguese, the project pairs academic research with annotated audio clips, allowing listeners to hear firsthand how linguistic features shape the genre."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -20,7 +12,9 @@
       "type": "event",
       "uuid": "91a56768-398e-4379-99c6-8f7c7f566e5f",
       "includes": [
-        "media"
+        "media",
+        "annotations",
+        "description"
       ],
       "children": [
         {
@@ -41,7 +35,7 @@
   "created_by": "raymondhyser",
   "title": "The Reggaetón Voice by Derrek Powell",
   "slug": "the-reggaeton-voice-by-derrek-powell",
-  "updated_at": "2026-07-09T20:38:05.809Z",
+  "updated_at": "2026-07-09T20:38:34.973Z",
   "updated_by": "raymondhyser",
   "autogenerate": {
     "enabled": false,
